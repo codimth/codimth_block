@@ -1,0 +1,7 @@
+name: CodimTh Block
+description: Create a custom block module
+package: CodimTh
+type: module
+core: 8.x
+dependencies:
+  - block
